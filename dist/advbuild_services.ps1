@@ -111,8 +111,9 @@ if ($Config.IconInControlPanel.IsSetIcon -and
 $arrayLines.Add('Save')
 $arrayLines.Add('Rebuild')
 $arrayLines | Out-File -FilePath $Config.PathAdvancedInstallerCommandFile
-
-&Start-Process -WindowStyle Hidden -Wait -FilePath "C:\adv\adv.exe" -ArgumentList "/execute $Config.PathAdvancedInstallerProjectFile $Config.PathAdvancedInstallerCommandFile" 
+Write-Host $Config.PathAdvancedInstallerProjectFile
+Write-Host $Config.PathAdvancedInstallerCommandFile
+&"C:\adv\adv.exe" /execute $Config.PathAdvancedInstallerProjectFile $Config.PathAdvancedInstallerCommandFile
 Write-Host ('CompressZip {0}=>{1}' -f $Config.PathAdvancedInstallerOutputFile, $Config.PathAdvancedInstallerOutputFileZip)
 compress-archive -path $Config.PathAdvancedInstallerOutputFile -destinationpath ($Config.PathAdvancedInstallerOutputFileZip) -Force
 if ($Config.IsRunRcUpload) {    
