@@ -144,7 +144,9 @@
       "OTH.HddtVinhHuy.dll",
       "Newtonsoft.Json.dll",
       "OTH.XReports.dll",
-      "WindowsBase.dll"
+      "WindowsBase.dll",
+      "System.Net.Http.dll",
+      "System.Net.Http.Formatting.dll"
    ],
    "IsNewShortcut": true,
    "AdvancedInstallerShortcut": {
