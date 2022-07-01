@@ -1,4 +1,4 @@
-﻿### DHG.Hospital Printer - Thông tin cập nhật
+﻿### DHG.Hospital Services - Thông tin cập nhật
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
