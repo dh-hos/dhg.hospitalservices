@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0721.1]()
+
+-  🐛: Bổ sung license mabvbh=77150
+-  #️⃣: https://github.com/dh-hos/DH.HIS/issues/2
+
 ##### [v3.22.0719.1]()
 
 -  ✨: Cập nhật ngày giờ y lệnh trên xml 3 theo mô tả mới

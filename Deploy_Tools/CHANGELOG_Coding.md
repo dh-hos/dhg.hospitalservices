@@ -10,3 +10,6 @@
 
 -  #️⃣: https://github.com/dh-hos/Mo-ta-he-thong/issues/11 [OK]
 -  ✨: Cập nhật ngày giờ y lệnh trên xml 3 theo mô tả mới [OK]
+
+-  #️⃣: https://github.com/dh-hos/DH.HIS/issues/2 [OK]
+-  🐛: Bổ sung license mabvbh=77150 [OK]
