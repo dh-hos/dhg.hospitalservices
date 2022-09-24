@@ -13,3 +13,6 @@
 
 -  #️⃣: https://github.com/dh-hos/DH.HIS/issues/2 [OK]
 -  🐛: Bổ sung license mabvbh=77150 [OK]
+
+-  #️⃣: https://github.com/dh-hos/Mo-ta-he-thong/issues/12 [OK]
+-  ✨: Thực hiện theo Mô tả thực hiện Thông tư 36/2021/TT-BYT [Mô tả](https://github.com/dh-hos/Mo-ta-he-thong/files/9553579/Vinh.-.Mo.ta.cap.phat.thuoc.nguoi.benh.Lao.theo.TT36.va.CV3153.-.17-08-2022v2.pdf) [OK]
