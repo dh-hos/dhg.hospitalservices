@@ -22,3 +22,6 @@
 -  ✨: Thực hiện theo Mô tả thực hiện Thông tư 36/2021/TT-BYT [Mô tả](https://github.com/dh-hos/Mo-ta-he-thong/files/9553579/Vinh.-.Mo.ta.cap.phat.thuoc.nguoi.benh.Lao.theo.TT36.va.CV3153.-.17-08-2022v2.pdf) [OK]
 -  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/21 [OK]
 -  ✨: Hỗ trợ xóa XML (không có chi phí gửi BHXH) trên bảng kê kiểm tra XML [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/77 [OK]
+-  🐛: Thêm chức năng xuất xml vào thư mục cấu hình trên admin khi gửi xml lên cổng BHXH đối với mabvbh=87190 [OK]
