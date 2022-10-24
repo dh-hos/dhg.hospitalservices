@@ -27,3 +27,4 @@
 -  🐛: Thêm chức năng xuất xml vào thư mục cấu hình trên admin khi gửi xml lên cổng BHXH đối với mabvbh=87190 [OK]
 
 -  🐛: Fix lỗi thiếu tập tin khi mở module ![](../MoTaThayDoi/Errors/Error-Thieu-file-khi-mo-module.jpg) [OK]
+-  🐛: Fix lỗi thiếu tập tin khi mở module ![](../MoTaThayDoi/Errors/Error-Thieu-file-khi-mo-module.jpg)  [OK]

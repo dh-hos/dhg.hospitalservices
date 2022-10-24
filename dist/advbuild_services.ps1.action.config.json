@@ -146,7 +146,14 @@
       "WindowsBase.dll",
       "System.Net.Http.dll",
       "System.Net.Http.Formatting.dll",
-      "OTH.XForms.v.1.2.dll"
+      "OTH.XForms.v.1.2.dll",
+      "OTH.PAY.ViettinBank.Admin.dll",
+      "OTH.PAY.ViettinBank.Hos.dll",
+      "OTH.PAY.ViettinBank.Crypto.dll",
+      "OTH.PAY.ViettinBank.Apis.Net.dll",
+      "OTH.PAY.ViettinBank.Apis.Leasedline.dll",
+      "OTH.PAY.ViettinBank.PrintPan.dll",
+      "OTH.PAY.SHB.Apis.dll"
    ],
    "IsNewShortcut": true,
    "AdvancedInstallerShortcut": {

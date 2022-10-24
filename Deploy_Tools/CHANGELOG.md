@@ -2,6 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1024.3]()
+
+-  🐛: Fix lỗi thiếu tập tin khi mở module ![](../MoTaThayDoi/Errors/Error-Thieu-file-khi-mo-module.jpg) 
+
 ##### [v3.22.1024.2]()
 
 -  🐛: Fix lỗi thiếu tập tin khi mở module ![](../MoTaThayDoi/Errors/Error-Thieu-file-khi-mo-module.jpg)
