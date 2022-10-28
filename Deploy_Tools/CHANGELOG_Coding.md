@@ -27,4 +27,7 @@
 -  🐛: Thêm chức năng xuất xml vào thư mục cấu hình trên admin khi gửi xml lên cổng BHXH đối với mabvbh=87190 [OK]
 
 -  🐛: Fix lỗi thiếu tập tin khi mở module ![](../MoTaThayDoi/Errors/Error-Thieu-file-khi-mo-module.jpg) [OK]
--  🐛: Fix lỗi thiếu tập tin khi mở module ![](../MoTaThayDoi/Errors/Error-Thieu-file-khi-mo-module.jpg)  [OK]
+-  🐛: Fix lỗi thiếu tập tin khi mở module ![](../MoTaThayDoi/Errors/Error-Thieu-file-khi-mo-module.jpg) [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/23 [OK]
+-  🐛: Fix lỗi không theo mô tả [Vinh.-.Mo.ta.cap.phat.thuoc.nguoi.benh.Lao.theo.TT36.va.CV3153.-.17-08-2022v2](../MoTaThayDoi/Vinh.-.Mo.ta.cap.phat.thuoc.nguoi.benh.Lao.theo.TT36.va.CV3153.-.17-08-2022v2.pdf). Xử lý chỉ cần psdangky.benhnhan_lao = 1 không cần chuẩn đoán Z22.7 sẽ thực hiện xuất xml theo MA_LYDO_VVIEN=7, MA_LOAI_KCB=7 [OK]
