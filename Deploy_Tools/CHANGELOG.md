@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0411.2]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/28>
+- ✨: Bổ sung chức năng xuất xml tự động gửi lên cổng Sở y tế Đồng Tháp (87196 - cs2 bv Thanh Bình)
+
 ##### [v3.22.1107.1]()
 
 -  #️⃣: https://github.com/dh-hos/Mo-ta-he-thong/issues/18

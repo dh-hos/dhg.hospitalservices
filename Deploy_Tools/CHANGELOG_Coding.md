@@ -34,3 +34,6 @@
 
 -  ✨: Hỗ trợ xuất XML theo mô tả [MÃ HÓA HÌNH THỨC KHÁM BỆNH, CHỮA BỆNH ĐỐI VỚI BỆNH NHÂN ĐIỀU TRỊ NỘI TRÚ 4h TRỞ XUỐNG](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML4210/Hau-Mo-ta-XML-Noi-tru-4h-3788_BYT-BH.md) [OK]
 -  #️⃣: https://github.com/dh-hos/Mo-ta-he-thong/issues/18 [OK]
+
+- ✨: Bổ sung chức năng xuất xml tự động gửi lên cổng Sở y tế Đồng Tháp (87196 - cs2 bv Thanh Bình) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/28> [OK]
