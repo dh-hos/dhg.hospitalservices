@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0425.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalservices/issues/15>
+- ✨: Kiểm tra không thực hiện gửi bệnh nhân nội trú khi chưa xuất viện (xác định bằng trạng thái ravien của bệnh nhân, chỉ gửi khi trạng thái là 1)
+
 ##### [v3.23.0412.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/29>

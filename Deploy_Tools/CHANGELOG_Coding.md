@@ -37,6 +37,9 @@
 
 - ✨: Bổ sung chức năng xuất xml tự động gửi lên cổng Sở y tế Đồng Tháp (87196 - cs2 bv Thanh Bình) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/28> [OK]
-
+>
 - ✨: Bổ sung chức năng xuất xml tự động gửi lên cổng Sở y tế Đồng Tháp (87197 - cs2 bv Lấp Vò) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/29> [OK]
+>
+- ✨: Kiểm tra không thực hiện gửi bệnh nhân nội trú khi chưa xuất viện (xác định bằng trạng thái ravien của bệnh nhân, chỉ gửi khi trạng thái là 1) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalservices/issues/15> [OK]
