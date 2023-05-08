@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0508.1]()
+
+- #️⃣: <https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML4210/Vinh-Mo-ta-XML4210-XML3.MA_BAC_SI.md>
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/31>
+- ✨: Thực hiện xuất XML3, lấy tất cả mã nhân viên chỉ định và thực hiện cận lâm sàng, ekip phẫu thuật
+
 ##### [v3.23.0505.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/32>
