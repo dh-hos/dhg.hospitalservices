@@ -53,3 +53,6 @@
 - ✨: Thực hiện xuất XML3, lấy tất cả mã nhân viên chỉ định và thực hiện cận lâm sàng, ekip phẫu thuật [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/31> [OK]
 - #️⃣: <https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML4210/Vinh-Mo-ta-XML4210-XML3.MA_BAC_SI.md> [OK]
+>
+- 🐛: Kiểm tra trùng MA_BAC_SI trong XML3 khi lấy tất cả bác sĩ theo [Mô tả](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML4210/Vinh-Mo-ta-XML4210-XML3.MA_BAC_SI.md) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/37> [OK]
