@@ -56,3 +56,6 @@
 >
 - 🐛: Kiểm tra trùng MA_BAC_SI trong XML3 khi lấy tất cả bác sĩ theo [Mô tả](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML4210/Vinh-Mo-ta-XML4210-XML3.MA_BAC_SI.md) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/37> [OK]
+>
+- 🐛: Thay đổi MA_THUOC trong XML2 đối với những thuốc sử dụng cho Phẫu thuật phương pháp vô cảm, theo [Mô tả](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML4210/Vinh-Mo-ta-XML4210-XML3.MA_BAC_SI.md) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/36> [OK]

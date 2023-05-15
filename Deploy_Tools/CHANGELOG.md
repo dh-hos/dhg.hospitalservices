@@ -2,6 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0515.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/36>
+
 ##### [v3.23.0511.2]()
 
 -  âœ¨:
