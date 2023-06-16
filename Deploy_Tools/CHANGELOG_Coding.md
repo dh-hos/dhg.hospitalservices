@@ -62,3 +62,6 @@
 >
 - ✨: Cập nhật Lisence `77156` [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/42#issuecomment-1578201157> [OK]
+>
+- ✨: Thêm chức năng Phẫu thuật phương pháp vô cảm theo cấu hình tham số `XML.vocamgayte.cauhinh` ([Mô tả](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML4210/20230415-Hau-CV1731-BHXH-G%C4%90%C4%90T-Thanh-toan-phau-thuat-vo-cam-gay-te.md)) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalservices/issues/16> [OK]
