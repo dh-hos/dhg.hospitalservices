@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0616.2]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalservices/issues/16>
+- ✨: Thêm chức năng Phẫu thuật phương pháp vô cảm theo cấu hình tham số `XML.vocamgayte.cauhinh` ([Mô tả](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML4210/20230415-Hau-CV1731-BHXH-G%C4%90%C4%90T-Thanh-toan-phau-thuat-vo-cam-gay-te.md))
+
 ##### [v3.23.0616.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalservices/issues/16>
