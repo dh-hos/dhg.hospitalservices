@@ -71,3 +71,6 @@
 >
 - ✨: Cập nhật Lisence `92117` [OK]
 - #️⃣: <https://github.com/dh-hos/Mo-ta-he-thong/issues/25> [OK]
+>
+- 🐛: Fix Lỗi - Kiểm tra cấu trúc khi gửi bệnh nhân lên cổng giám định [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalservices/issues/18> [OK]
