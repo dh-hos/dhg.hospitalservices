@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0717.3]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalservices/issues/18>
+- 🐛: Fix Lỗi - Kiểm tra cấu trúc khi gửi bệnh nhân lên cổng giám định
+
 ##### [v3.23.0717.2]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalservices/issues/18>
