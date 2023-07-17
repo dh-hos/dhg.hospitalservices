@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0717.1]()
+
+-  âœ¨:
+-  ðŸ›:
+-  #ï¸âƒ£:
+
 ##### [v3.23.0623.1]()
 
 - #️⃣: <https://github.com/dh-hos/Mo-ta-he-thong/issues/25>
