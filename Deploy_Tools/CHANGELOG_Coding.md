@@ -74,3 +74,6 @@
 >
 - 🐛: Fix Lỗi - Kiểm tra cấu trúc khi gửi bệnh nhân lên cổng giám định [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalservices/issues/18> [OK]
+>
+- ✨: Mở chức năng đẩy XML ra thư mực để các bệnh viện sử dụng cho tất cả khách hàng [OK]
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/51> [OK]

@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0829.1]()
+
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/51>
+- ✨: Mở chức năng đẩy XML ra thư mực để các bệnh viện sử dụng cho tất cả khách hàng
+
 ##### [v3.23.0717.3]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalservices/issues/18>
