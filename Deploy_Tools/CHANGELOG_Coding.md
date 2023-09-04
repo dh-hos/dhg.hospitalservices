@@ -77,3 +77,6 @@
 >
 - ✨: Mở chức năng đẩy XML ra thư mực để các bệnh viện sử dụng cho tất cả khách hàng [OK]
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/51> [OK]
+>
+- ✨: Thực hiện Yêu cầu - Gửi cổng giám định, không gửi XML4 những XN không có kết quả. (Loại bỏ những dịch vụ, cls khi gia_tri rỗng) [OK]
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/44> [OK]
