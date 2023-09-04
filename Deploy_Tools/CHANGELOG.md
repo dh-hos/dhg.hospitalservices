@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0904.2]()
+
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/63>
+- ✨: Không kiểm tra XML2.NGAY_YL so với NGAY_RA, dữ liệu ghi nhận thế nào thì xuất XML như dữ liệu ghi nhận (trước đây nếu NGAY_YL > NGAY_RA, thì lấy NGAY_YL = NGAY_RA)
+
 ##### [v3.23.0904.1]()
 
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/44>

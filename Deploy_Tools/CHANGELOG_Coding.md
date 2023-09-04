@@ -80,3 +80,6 @@
 >
 - ✨: Thực hiện Yêu cầu - Gửi cổng giám định, không gửi XML4 những XN không có kết quả. (Loại bỏ những dịch vụ, cls khi gia_tri rỗng) [OK]
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/44> [OK]
+>
+- ✨: Không kiểm tra XML2.NGAY_YL so với NGAY_RA, dữ liệu ghi nhận thế nào thì xuất XML như dữ liệu ghi nhận (trước đây nếu NGAY_YL > NGAY_RA, thì lấy NGAY_YL = NGAY_RA) [OK]
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/63> [OK]
