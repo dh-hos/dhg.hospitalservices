@@ -83,3 +83,6 @@
 >
 - ✨: Không kiểm tra XML2.NGAY_YL so với NGAY_RA, dữ liệu ghi nhận thế nào thì xuất XML như dữ liệu ghi nhận (trước đây nếu NGAY_YL > NGAY_RA, thì lấy NGAY_YL = NGAY_RA) [OK]
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/63> [OK]
+>
+- 🐛: Fix Lỗi - Gửi trùng hồ sơ ngoại trú lên cổng giám định BHXH [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalservices/issues/19> [OK]

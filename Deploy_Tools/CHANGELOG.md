@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0918.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalservices/issues/19>
+- 🐛: Fix Lỗi - Gửi trùng hồ sơ ngoại trú lên cổng giám định BHXH
+
 ##### [v3.23.0904.2]()
 
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/63>
